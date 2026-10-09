@@ -7,4 +7,4 @@ The island has a small group of devoted fans.(ME ME I'M THE DEVOTED FANS)
 
 
 
-<button type="button"><a href="https://maps.app.goo.gl/fs7SGCNoTi4LLqX1A">Linbrak tourist attraction page</a></button>
+<a href="https://maps.app.goo.gl/fs7SGCNoTi4LLqX1A"><button type="button">Linbrak tourist attraction page</button></a>
