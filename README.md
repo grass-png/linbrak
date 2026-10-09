@@ -8,7 +8,7 @@
 # LINBRAK ISLAND
 Linbrak is an island in Finland .  It is located in the North Kvarken and in the municipality of Malax in the province of Ostrobothnia , in the western part of the country. The island is located about 35 kilometers west of Vaasa and about 380 kilometers northwest of Helsinki .
 
-<p class="doubleborder"><img src="Знімок екрана 2026-10-09 141930.png" width=500 alt="linbrak island promotion image"></p>
+<img src="Знімок екрана 2026-10-09 141930.png" width=500 alt="linbrak island promotion image">
 
 The island has a small group of devoted fans.(ME ME I'M THE DEVOTED FANS)
 
@@ -16,6 +16,8 @@ The island has a small group of devoted fans.(ME ME I'M THE DEVOTED FANS)
 
 
 ## google maps pages
-<a href="https://maps.app.goo.gl/fs7SGCNoTi4LLqX1A"><button type="button">Linbrak tourist attraction page</button></a>
-<a href="https://maps.app.goo.gl/Yp2ysdFzMpWwPHMV9"><button type="button">Linbrak island page</button></a>
-<a href="https://maps.app.goo.gl/WLz5KZEp2xbxXbqPA"><button type="button">Linbrak island unofficial fan page</button></a>
+<p class="doubleborder">
+  <a href="https://maps.app.goo.gl/fs7SGCNoTi4LLqX1A"><button type="button">Linbrak tourist attraction page</button></a>
+  <a href="https://maps.app.goo.gl/Yp2ysdFzMpWwPHMV9"><button type="button">Linbrak island page</button></a>
+  <a href="https://maps.app.goo.gl/WLz5KZEp2xbxXbqPA"><button type="button">Linbrak island unofficial fan page</button></a>
+</p>
