@@ -4,3 +4,7 @@ Linbrak is an island in Finland .  It is located in the North Kvarken and in the
 The island has a small group of devoted fans.(ME ME I'M THE DEVOTED FANS)
 
 <a href="https://sv.wikipedia.org/wiki/Linbrak">visit the wikipedia page</a>
+
+
+
+<button type="button"><a href="https://maps.app.goo.gl/fs7SGCNoTi4LLqX1A">Linbrak tourist attraction page</a></button>
